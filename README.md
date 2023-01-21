@@ -25,6 +25,6 @@ I'm Deepak Kumar, a passionate Self-taught **</ Developer>**.
   <img height="25" src="./assets/discord.svg">
 </a> -->
 
-<a href="credentialID">
+<a href="https://twitter.com/itsdevdeepak">
   <img height="25" src="https://raw.githubusercontent.com/DepzXD/DepzXD/master/assets/twitter.svg">
 </a>
