@@ -18,17 +18,13 @@ I'm Deepak Kumar, a passionate Self-taught **</ Developer>**.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 ## <img height="20" src="https://raw.githubusercontent.com/DepzXD/DepzXD/master/assets/kyubey.gif"> Connect with me
-<a href="https://www.linkedin.com/in/depzXD/">
+<a href="https://www.linkedin.com/in/itsdevdeepak/">
   <img height="25" src="https://raw.githubusercontent.com/DepzXD/DepzXD/master/assets/linkedin.svg">
 </a>
 <!-- <a href="">
   <img height="25" src="./assets/discord.svg">
 </a> -->
 
-<a href="https://twitter.com/DepzXD">
+<a href="credentialID">
   <img height="25" src="https://raw.githubusercontent.com/DepzXD/DepzXD/master/assets/twitter.svg">
-</a>
-
-<a href="https://codepen.io/DepzXD">
-  <img height="25" src="https://raw.githubusercontent.com/DepzXD/DepzXD/master/assets/codepen.svg">
 </a>
